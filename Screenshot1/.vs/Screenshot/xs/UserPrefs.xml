@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B39A0D2F-82B0-5122-231E-C9DECFDB49FD}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="16363ba4-6942-40a0-a420-70bb53e000fa" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PhotoCon.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraCon.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/PhotoCon.cs" Line="41" Column="36" />
+      <File FileName="Assets/Scripts/IMG2S.cs" Line="21" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Screenshot" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
